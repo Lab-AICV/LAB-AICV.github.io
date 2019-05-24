@@ -38,6 +38,10 @@ research.jemdoc
 The command is:
 jemdoc.py index contact members news portfolio positions publications research
 
+NOTE: Jemdoc requires Python 2. If you have python 3 set up as a path variable (eg. typing python --version into CMD outputs Python 3.7._), you need to also set up python 2 as a path variable. On the computer I am using right now, I have python 2 set up as python2, so the command for me is:
+
+python2 jemdoc.py index contact members news portfolio positions publications research
+
 #############################################
 
 For future assistance:
