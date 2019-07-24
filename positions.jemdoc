@@ -5,22 +5,18 @@ Project 1: Soft robotics: developing novel robot gripper using soft materials. T
 
 Project 2: Driverless car/Autonomous vehicle
 
-<ul>
-  <li>Autonomous car: building a testbed close to a real environment</li>
-  <li>Identifying the vehicle or robots to be used in the testbed</li>
-  <li>Developing and implementing motion planning and advanced control algorithms</li>
-  <li>Performing experiments (motion planning and control algorithms) in the developed testbed</li>
-  <li>This project requires building a mechatronics system, Matlab simulations, working with sensors, and performing experiments in the lab</li>
-</ul>
+- Autonomous car: building a testbed close to a real environment
+- Identifying the vehicle or robots to be used in the testbed
+- Developing and implementing motion planning and advanced control algorithms
+- Performing experiments (motion planning and control algorithms) in the developed testbed
+- This project requires building a mechatronics system, Matlab simulations, working with sensors, and performing experiments in the lab
 
 Project 3: Autonomous mobile robots
 
-<ul>
-  <li>Developing an autonomous docking and undocking mechanism that enables robots’ docking/undocking</li>
-  <li>Developing algorithms for maintaining robot in formation (for a mixture of robots are docked and undocked) using robot sensors only</li>
-  <li>Equipping robots with omni wheels</li>
-  <li>Performing experiments (i) autonomous docking, (ii) verifying the developed algorithms</li>
-</ul>
+- Developing an autonomous docking and undocking mechanism that enables robots’ docking/undocking
+- Developing algorithms for maintaining robot in formation (for a mixture of robots are docked and undocked) using robot sensors only
+- Equipping robots with omni wheels
+- Performing experiments (i) autonomous docking, (ii) verifying the developed algorithms
 
 Qualifications: Strong, motivated, and enthusiastic students. Good programming skills such as Matlab/Python.  Ability to work independently.  Excellent time management skills.
 
