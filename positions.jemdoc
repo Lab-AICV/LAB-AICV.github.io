@@ -1,4 +1,27 @@
 # jemdoc: menu{MENU}{positions.html}
 = Available Positions
 
-{{<img src="position.jpeg" alt="There is currently a position available in collaboration with the AIR lab.">}}
+Project 1: Soft robotics: developing novel robot gripper using soft materials. This project is really fund and involves modeling (using ANSYS) and building. Mechanical students are strongly encouranged to contact me or Dr. Simha. 
+
+Project 2: Driverless car/Autonomous vehicle
+
+<ul>
+  <li>Autonomous car: building a testbed close to a real environment</li>
+  <li>Identifying the vehicle or robots to be used in the testbed</li>
+  <li>Developing and implementing motion planning and advanced control algorithms</li>
+  <li>Performing experiments (motion planning and control algorithms) in the developed testbed</li>
+  <li>This project requires building a mechatronics system, Matlab simulations, working with sensors, and performing experiments in the lab</li>
+</ul>
+
+Project 3: Autonomous mobile robots
+
+<ul>
+  <li>Developing an autonomous docking and undocking mechanism that enables robots’ docking/undocking</li>
+  <li>Developing algorithms for maintaining robot in formation (for a mixture of robots are docked and undocked) using robot sensors only</li>
+  <li>Equipping robots with omni wheels</li>
+  <li>Performing experiments (i) autonomous docking, (ii) verifying the developed algorithms</li>
+</ul>
+
+Qualifications: Strong, motivated, and enthusiastic students. Good programming skills such as Matlab/Python.  Ability to work independently.  Excellent time management skills.
+
+Project 4: Autonomous air balloon system for environmental monitoring
