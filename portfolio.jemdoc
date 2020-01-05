@@ -6,7 +6,7 @@
 === Soft Robotics
 
 {{<video width="320" height="240" controls>
-  <source src="Soft_robot_gripper.mp4" type="video/mp4">
+  <source src="resources/Soft_robot_gripper.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>}} 
 
