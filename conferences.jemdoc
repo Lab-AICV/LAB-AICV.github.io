@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{conferences.html}
+= Conferences
+
+~~~
+- R. Byerlay, M. Biglarbegian, A. A. Aliabadi, "An Airborne Thermal Imaging Methodology for
+Mapping Land Surface Temperature (LST) with a High Spatiotemporal Resolution", Canadian
+Society for Mechanical Engineering (CSME), London, Canada, June 2019.
+- C. Bourque, A. Lee, E. Hill, S.A. Gadsden, A. Bardelcik, M. Biglarbegian, "Kalman Filtering
+and PID Control of an Inverted Pendulum Robot", Canadian Society for Mechanical Engineering (CSME), London, Canada, June 2019.
+- M. Hajyian, S. Mahmud, M. Biglarbegian, H. Abdullah, "A comperative study on cell arrangement of Lithium-Ion batteries in porous media", Comsol Conference, Boston, October
+2018.
+- N. Lashkari, M. Biglarbegian, S. Yang, "Backstepping Tracking Control Design for a Tractor
+Robot Pulling Multiple Trailers", American Control Conference (ACC), Milwaukee, USA, June
+2018.
+- J. Chittle, A. Gadsden, M. Biglarbegian, "Mobile Robot Tracking Using an Overhead Camera
+and Sensor Fusion Techniques", IEEE Canadian Conference on Electrical & Computer Engineering (CCECE), Quebec City, Canada, May 2018.
+- A. Cataford, A. Gadsden, K. Turpie, M. Biglarbegian, "AIR-LUSI: Estimation, Filtering, and
+PID Tracking Simulation," IEEE CCECE, Quebec City, Canada, May 2018.
+- M. Hajyian, M. Biglarbegian, S. Mahmud, H. Abdullah, "Design and Control of an Exoskeleton
+Based Device for Hand Rehabilitation", IEEE International Symposium on Intelligent and
+Robotic (IRIS), October 2017, Ottawa, Canada.
+- M.Shahriari, M. Biglarbegian, “A New Robust Control Method for Real-time Collision Avoidance of Multiple Mobile Robots,” IEEE International Conference on Robotics and Automation (ICRA), submitted.
+- M.Shahriari, M. Biglarbegian, “A Prioritized Collision Avoidance Methodology for Autonomous Driving.” IEEE Intelligent Transportation Systems Conference, Rio de jeniro, Brazil, Nov 2016.
+- N. Lashkari, M. Biglarbegian, S. Yang, “Optimal Design of Formation Tracking Control for a Tractor-Trailer Robotic System with Omni-directional Wheels,” IEEE Intelligent Transportation Systems Conference, Rio de jeniro, Brazil, Nov 2016.
+- N. Lashkari, M. Biglarbegian, S. Yang, "An Optimal Design of Tracking Controller for Articulated Vehicles with Omni-directional Wheels, IEEE International Conference on Intelligent Transportation Systems (ITSC), Rio de Janeiro, Brazil, Nov. 2016.
+- M. Shahriari, M. Biglarbegian, W. Melek, J. Kurian, "A New Computationally Efficient Dy-
+namic Scheduling for Multi-Resource Constrained Procedures," IEEE World Congress on
+Computational Intelligence (IEEE WCCI), Vancouver, July 2016.
+- B. Sahoo, W. Melek, M. Biglarbegian, "Steering Comparison for All Terrain Vehicles," Proceedings of The Canadian Society for Mechanical Engineering International Congress, Kelowna, BC, Canada, June 2016.
+- A. Elseyed, K. Tai, M. Biglarbegian, S. Mahmud, "Survey of Recent Advancements of Energy
+Harvesting Mechanisms," IEEE Canadian Conference on Electrical and Computer Engineering, Vancouver, May 2016.
+- M. Shahriari, M. Biglarbegian, “Conflict Resolution of a Cluttered Multi-Robot System Using Metahueristic Optimization Algorithms”, Proceedings of IEEE Conference on System, Man, Cybernetics (SMC), Hong Kong, Oct. 2015.
+- K. Tai, A. El-Sayed, M. Biglarbegian, “Development of a Unique Gripper and Lifting Mechanism for Automated Test Water Systems”, Proceedings of IEEE Conference on ISMA, Beijing, August 2015.
+- E. Colmenar, F. Al-Turijman, M. Biglarbegian, “Data Delivery and Gatheing in IoT Applications: An Overview”, Proceedings of IEEE Conference on Local Computer Networks (LCN), Calgary, Sept. 2014.
+- M. Schrieber, M. Biglarbegian, “Hardware Implementation of a Novel Inference Engine for Interval Type-2 Fuzzy Control on FPGA”, Proceedings of IEEE World Congress on Artificial Intelligence (WCCI), Beijing, China, July. 2014.
+- T. Lambert, M. Biglarbegian, S.Mahmud, “Design of a Novel Intelligent Controller for Efficient Power Delivery in Hybrid Systems”, Proceedings of ASME IDET Conference, Chicago, August 2012.
+- M. Biglarbegian, “On the Design of Robust Intelligent Controllers with Application to Mobile Robot Tracking”, American Control Conference, Montreal, June 2012.
+- L. Wang, S. Yang, M. Biglarbegian, “Bio-inspired Path Planning of Mobile Robots”, International Conference on Autonomous and Intelligent Systems, Aveiro, Portugal, June 2012.
+- M. Biglarbegian, “On the Design of Robust Flexible Formation Control for Multiple Mobile Robots”, Symposium on Advanced Autonomous and Intelligent Systems, Waterloo, Canada, December 2011.
+- M. Biglarbegian, “Toward More Efficient Methods for Path Planning of Mobile Robots: Simplified Non-Convex Constraints “, Symposium on Advanced Autonomous and Intelligent Systems, Waterloo, Canada, December 2011.
+- M. Biglarbegian, A. Sadeghian, W. Melek, “Accessibility of Fuzzy Control Systems”, Proceedings of International IEEE Artificial and Intelligent Systems, Burnaby, BC, June 2011.
+- M. Biglarbegian, W. Melek, J. Mendel, “On the Robustness of Interval Type-2 Fuzzy Logic Systems”, IEEE Proceedings of NAFIPS conference, Toronto, ON, July 2010.
+- M. Biglarbegian, W. Melek, J. Mendel, “A Practical Approach for Design of PD and PI-like Interval Type-2 Fuzzy Controllers”, IEE Proceedings of Systems, Man, and Cybernetics (SMC), San Antonio, TX, October 2009.
+- M. Biglarbegian, W. Melek, J. Mendel, ” On the Systematic Design of Type-2 Fuzzy Systems”, Proceedings of IEEE World Congress on Computational Intelligence (WCCI), Hong Kong, June 2008.
+- M. Biglarbegian, W. Melek, J. Mendel, ” Parametric Design of Stable Type-2 TSK Fuzzy Systems”, IEEE Proceedings of NAFIPS”, New York City, NY, May 2008.
+- M. Biglarbegian, W. Melek, F. Golnaraghi, “A Novel Fuzzy Controller to Improve Desired Suspension Performance”, Proceedings of ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Las Vegas, NV, 2007.
+- M. Biglarbegian, W. Melek, F. Golnaraghi, ” Design of a Novel Fuzzy Controller to Enhance the Stability of Vehicles” , IEEE Proceedings of NAFIPS Conference, San Diego, CA, 2007.
+- M. Biglarbegian, J. Zu, “Dynamic Analysis and Simulations of Vehicles Carrying Liquid Cargo During Braking”, Proceedings of ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference-IDETC, Long Beach, CA, September 2005.
+~~~

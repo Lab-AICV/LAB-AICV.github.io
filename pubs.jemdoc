@@ -1,14 +1,14 @@
-﻿# jemdoc: menu{MENU}{publications.html}
+﻿# jemdoc: menu{MENU}{pubs.html}
 = Publications
 
 == Book/Book Chapters
-
+~~~
 - M. Biglarbegian, et al., “On the Design of Type-2 Fuzzy Controllers with applications”, Publisher: Wiley-IEEE Press, 2014.
 - M. Biglarbegian, “On the robustness of higher order fuzzy sets”, Springer, 2015.
+~~~
 
 == Journal Papers
-
-
+~~~
 - M. Hajyian, S. Ebadi, S. Mahmud, M. Biglarbegian, H. Abdullah, "Experimental investigation
 of the effect of an external magnetic field on the thermal conductivity and viscosity of Fe3O4-glycerol", Journal of Thermal Analysis and Calorimetry, vol. 135, no. 2, pp. 1451-1464, 2019.
 - Y. Lyu, A. R. M. Siddique, S. H. Majid, M. Biglarbegian, S. A. Gadsden, S. Mahmud, "Electric vehicle battery thermal management system with thermoelectric cooling", Energy Reports, vol. 5, pp. 822-827, 2019.
@@ -39,11 +39,11 @@ of the effect of an external magnetic field on the thermal conductivity and visc
 - N. Eslaminasab, M. Biglarbegian, W. Melek, F. Golnaraghi, “Neural Network-based Fuzzy Control Approach to Improve Ride Comfort and Road Handling of Heavy Vehicles Using Semi-active Dampers”, Journal of Vehicle System Dynamics, vol. 14, no. 2, 2007, pp. 135–157.
 - M. Biglarbegian, Zu, J., “A Tractor-Semitrailer Model for Vehicles Carrying Liquids”, Journal of Vehicle System Dynamics”, vol. 44, no. 11, 2006, pp. 871-885.
 - F. Kowsary, M. Biglarbegian, “A Mathematical Confirmation for Higher LMTD Value of Counterflow Versus Parallelflow Heat Exchangers”, Journal of Heat Transfer”, vol. 44, no. 11, 2003, pp. 871-885.
+~~~
 
 == Conference Papers
 
-
-
+~~~
 - R. Byerlay, M. Biglarbegian, A. A. Aliabadi, "An Airborne Thermal Imaging Methodology for
 Mapping Land Surface Temperature (LST) with a High Spatiotemporal Resolution", Canadian
 Society for Mechanical Engineering (CSME), London, Canada, June 2019.
@@ -61,11 +61,7 @@ PID Tracking Simulation," IEEE CCECE, Quebec City, Canada, May 2018.
 - M. Hajyian, M. Biglarbegian, S. Mahmud, H. Abdullah, "Design and Control of an Exoskeleton
 Based Device for Hand Rehabilitation", IEEE International Symposium on Intelligent and
 Robotic (IRIS), October 2017, Ottawa, Canada.
-
-
 - M.Shahriari, M. Biglarbegian, “A New Robust Control Method for Real-time Collision Avoidance of Multiple Mobile Robots,” IEEE International Conference on Robotics and Automation (ICRA), submitted.
-
-
 - M.Shahriari, M. Biglarbegian, “A Prioritized Collision Avoidance Methodology for Autonomous Driving.” IEEE Intelligent Transportation Systems Conference, Rio de jeniro, Brazil, Nov 2016.
 - N. Lashkari, M. Biglarbegian, S. Yang, “Optimal Design of Formation Tracking Control for a Tractor-Trailer Robotic System with Omni-directional Wheels,” IEEE Intelligent Transportation Systems Conference, Rio de jeniro, Brazil, Nov 2016.
 - N. Lashkari, M. Biglarbegian, S. Yang, "An Optimal Design of Tracking Controller for Articulated Vehicles with Omni-directional Wheels, IEEE International Conference on Intelligent Transportation Systems (ITSC), Rio de Janeiro, Brazil, Nov. 2016.
@@ -74,11 +70,7 @@ namic Scheduling for Multi-Resource Constrained Procedures," IEEE World Congress
 Computational Intelligence (IEEE WCCI), Vancouver, July 2016.
 - B. Sahoo, W. Melek, M. Biglarbegian, "Steering Comparison for All Terrain Vehicles," Proceedings of The Canadian Society for Mechanical Engineering International Congress, Kelowna, BC, Canada, June 2016.
 - A. Elseyed, K. Tai, M. Biglarbegian, S. Mahmud, "Survey of Recent Advancements of Energy
-Harvesting Mechanisms," IEEE Canadian Conference on Electrical and Computer Engineer-
-ing, Vancouver, May 2016.
-
-
-
+Harvesting Mechanisms," IEEE Canadian Conference on Electrical and Computer Engineering, Vancouver, May 2016.
 - M. Shahriari, M. Biglarbegian, “Conflict Resolution of a Cluttered Multi-Robot System Using Metahueristic Optimization Algorithms”, Proceedings of IEEE Conference on System, Man, Cybernetics (SMC), Hong Kong, Oct. 2015.
 - K. Tai, A. El-Sayed, M. Biglarbegian, “Development of a Unique Gripper and Lifting Mechanism for Automated Test Water Systems”, Proceedings of IEEE Conference on ISMA, Beijing, August 2015.
 - E. Colmenar, F. Al-Turijman, M. Biglarbegian, “Data Delivery and Gatheing in IoT Applications: An Overview”, Proceedings of IEEE Conference on Local Computer Networks (LCN), Calgary, Sept. 2014.
@@ -96,3 +88,4 @@ ing, Vancouver, May 2016.
 - M. Biglarbegian, W. Melek, F. Golnaraghi, “A Novel Fuzzy Controller to Improve Desired Suspension Performance”, Proceedings of ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Las Vegas, NV, 2007.
 - M. Biglarbegian, W. Melek, F. Golnaraghi, ” Design of a Novel Fuzzy Controller to Enhance the Stability of Vehicles” , IEEE Proceedings of NAFIPS Conference, San Diego, CA, 2007.
 - M. Biglarbegian, J. Zu, “Dynamic Analysis and Simulations of Vehicles Carrying Liquid Cargo During Braking”, Proceedings of ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference-IDETC, Long Beach, CA, September 2005.
+~~~
